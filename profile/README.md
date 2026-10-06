@@ -1,5 +1,7 @@
 # Justicia para Margarita
 
+![Cocoon](https://raw.githubusercontent.com/justiciaparamargarita/.github/main/images/cocoon.png)
+
 Investigación legal y judicial sobre la muerte de Margarita Kuchasky. Cada repositorio corresponde a una denuncia (DEN) o caso (MPF) del Ministerio Público Fiscal de la CABA, con sus resoluciones transcriptas. Formato: DEN - MPF - título según la actuación judicial.
 
 - 2020-05-05 - DEN00632469, DEN00641871, DEN00641877 - MPF00462972 - [Hospital Piñero, NN s/ art. 106 CP, abandono de persona (fallecimiento de Margarita Kuchasky)](https://github.com/justiciaparamargarita/mpf00462972)
